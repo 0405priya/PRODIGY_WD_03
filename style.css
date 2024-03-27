@@ -1,9 +1,9 @@
+body{
+    background-color:rgb(14, 181, 247);
+}
 h1 { 
-    color: orangered; 
+    color: rgb(8, 8, 8); 
     margin-bottom: -5px; 
-} 
-p { 
-    margin-bottom: -10px; 
 } 
 .ui { 
     display: flex; 
@@ -28,60 +28,60 @@ p {
     outline: none; 
 } 
 #b1{ 
-    border-bottom: 1px solid gray; 
-    border-right: 1px solid gray; 
+    border-bottom: 1px solid #fff240; 
+    border-right: 1px solid #fff240; 
 } 
 #b2 { 
-    border-bottom: 1px solid gray; 
-    border-right: 1px solid gray; 
-    border-left: 1px solid gray; 
+    border-bottom: 1px solid #fff240; 
+    border-right: 1px solid #fff240; 
+    border-left: 1px solid #fff240; 
 } 
 #b3 { 
-    border-bottom: 1px solid gray; 
-    border-left: 1px solid gray; 
+    border-bottom: 1px solid #fff240; 
+    border-left: 1px solid #fff240; 
 } 
 #b4 { 
-    border-top: 1px solid gray; 
-    border-bottom: 1px solid gray; 
-    border-right: 1px solid gray; 
+    border-top: 1px solid #fff240; 
+    border-bottom: 1px solid #fff240; 
+    border-right: 1px solid #fff240; 
 } 
 #b5 { 
-    border: 1px solid gray; 
+    border: 1px solid #fff240; 
 } 
 #b6 { 
-    border-top: 1px solid gray; 
-    border-bottom: 1px solid gray; 
-    border-left: 1px solid gray; 
+    border-top: 1px solid #fff240; 
+    border-bottom: 1px solid #fff240; 
+    border-left: 1px solid #fff240; 
 } 
 #b7 { 
-    border-top: 1px solid gray; 
-    border-right: 1px solid gray; 
+    border-top: 1px solid #fff240; 
+    border-right: 1px solid #fff240; 
 } 
 #b8 { 
-    border-top: 1px solid gray; 
-    border-right: 1px solid gray; 
-    border-left: 1px solid gray; 
+    border-top: 1px solid #fff240; 
+    border-right: 1px solid #fff240; 
+    border-left: 1px solid #fff240; 
 } 
 #b9 { 
-    border-top: 1px solid gray; 
-    border-left: 1px solid gray; 
+    border-top: 1px solid #fff240; 
+    border-left: 1px solid #fff240; 
 } 
 #but { 
     box-sizing: border-box; 
     width: 95px; 
     height: 40px; 
-    border: 1px solid dodgerblue; 
+    border: 1px solid rgb(3, 3, 3); 
     margin-left: auto; 
     border-radius: 8px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    background-color: whitesmoke; 
-    color: dodgerblue; 
+    background-color: rgb(255, 255, 255); 
+    color: rgb(0, 0, 0); 
     font-size: 20px; 
     cursor: pointer; 
 } 
 #print { 
     font-family: Verdana,Geneva, Tahoma, sans-serif; 
-    color: dodgerblue; 
+    color: rgb(7, 7, 7); 
     font-size: 20px; 
 } 
 #main { 
